@@ -1,4 +1,3 @@
-# Project_Linux_Script
 # Todo Task Manager Script
 *By Mehdi Doukkali and Youssef Bouabid*
 
