@@ -1,5 +1,7 @@
 # Project_Linux_Script
-# TODO Task Manager Script
+# Todo Task Manager Script
+*By Mehdi Doukkali and Youssef Bouabid*
+
   ## Overview
 This Bash script, `todo.sh`, manages daily tasks stored in a CSV file. It allows for creating, updating, deleting, and displaying tasks with various details such as title, description, location, due date, and time. The script is designed to handle tasks efficiently and is user-friendly, prompting the user for input as needed.
 
